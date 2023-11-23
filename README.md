@@ -1,4 +1,3 @@
 # rsschool-cv
 
-
-alemmmmmm
+https://mirvision.github.io/rsschool-cv/cv
