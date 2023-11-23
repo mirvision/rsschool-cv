@@ -41,4 +41,4 @@ func StringToNumber(str string) int {
 
 ## Courses
 - HTML and CSS Tutorials 
-- Golang on the Stepik, w3
+- Golang on the Stepik
